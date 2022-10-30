@@ -1,0 +1,7 @@
+👋 Welcome to Codespaces! You are on a OpenMRS image defined in your devcontainer.json file.
+
+🔍 To explore VS Code to its fullest, search using the Command Palette (Cmd/Ctrl + Shift + P)
+
+📝 The container includes OpenMRS SDK, Docker and other tools. Check next commands:
+   - mvn openmrs-sdk:help to see help.
+   - mvn openmrs-sdk:setup to setup an instance.
