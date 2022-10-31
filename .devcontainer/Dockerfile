@@ -26,4 +26,4 @@ RUN mvn --batch-mode org.openmrs.maven.plugins:openmrs-sdk-maven-plugin:setup-sd
 # [Optional] Uncomment this line to install global node packages.
 # RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
 
-ADD first-run-notice.txt /workspaces/.codespaces/shared/first-run-notice.txt
+ADD first-run-notice.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt
